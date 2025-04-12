@@ -75,7 +75,7 @@ sls invoke local -f <function_name>
 This is a way to send params for your function while invoke it:
 
 ```sh
-sls invoke local --function functionName --data '{"a":"bar"}'
+sls invoke local --function <function_name> --data '{"a":"bar"}'
 ```
 
 You can use Serverless Framework to stream logs from AWS Cloudwatch directly to your terminal, use:
