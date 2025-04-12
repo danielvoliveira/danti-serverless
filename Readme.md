@@ -1,4 +1,4 @@
-# Introdução
+# Introduction
 
 This project creates a microservice with serverless framework. The idea is just test this technology and map some commands by the get started instructions:
 
@@ -86,6 +86,6 @@ If you want to delete your service, run remove. This will delete all the AWS res
 serverless remove
 ```
 
-## Complete doc from Serverless:
+## Complete docs from Serverless:
 
 https://www.serverless.com/framework/docs
