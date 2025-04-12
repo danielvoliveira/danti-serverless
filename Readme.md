@@ -18,6 +18,10 @@ Inside <code>handler.js</code> we have the functions called through the lambda f
 
 This files are the base of serverless and we have thousand of possibilities to construct microservices.
 
+Use https://app.serverless.com/danti/apps to control and access the dashboard of application.
+
+Use https://us-east-1.console.aws.amazon.com/console/home to access the AWS main website.
+
 # Some commands:
 
 Deploying will create/update cloud infrastructure and code on AWS, all at the same time. Use this when you make some change in some part of the application:
